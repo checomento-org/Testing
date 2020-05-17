@@ -7,3 +7,4 @@ Todo bien
 //mas cambios de user sin permiso 6
 //intento 7
 //intento 8
+//cambio 10 de con usuario con permisos
