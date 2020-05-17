@@ -12,3 +12,4 @@ Todo bien
 //mas pruebass de usuario con permisos
 //mas cambios
 //Cambios de checomentoX settings
+//mas cambios con cambios en gitconfig
