@@ -19,3 +19,4 @@ Todo bien
 /mas del mismo
 //mas cambios para verificar
 /y mas
+//cambios con write
