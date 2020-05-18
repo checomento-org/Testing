@@ -17,4 +17,4 @@ Todo bien
 //cambios de develop con CHX write
 version 2.0
 menos cambios
-menos menos
+menos menos menos
