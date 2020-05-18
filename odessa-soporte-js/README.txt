@@ -15,11 +15,4 @@ Todo bien
 //mas cambios con cambios en gitconfig
 //mas cambios con checomentox
 //cambios de develop con CHX write
-<<<<<<< HEAD
 version 2.0 mas cambios
-=======
-version 2.0
-menos mmeememememememem
-mememememenos mas
-//codigo de branch 4
->>>>>>> master
