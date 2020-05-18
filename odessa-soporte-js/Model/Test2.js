@@ -8,7 +8,7 @@ import java.util.Objects;
  This class is immutable.
  @author Usuario2 mas cambios
 */
-public final class Test{ 
+public final class Tost{ 
 
   /**
     Constructor.
@@ -23,13 +23,13 @@ public final class Test{
     @param body the comment, must have content.
     @param dateTime date and time when the message was posted.
    */
-   public Test(
+   public Tost(
      String userName, String body, LocalDateTime dateTime
    ) throws Exception {
      this.userName = userName;
      this.body = body;
      this.dateTime = dateTime;
-     validateState();
+     validaTostate();
    }
   
    /** Return the logged-in user name passed to the constructor. */
@@ -89,7 +89,7 @@ public final class Test{
      return text == null || text.trim().length() == 0;
    }
    
-   private void validateState() throws Exception {
+   private void validaTostate() throws Exception {
      List<String> errors = new ArrayList<>(); 
      if (dateTime == null){
        errors.add("DateTime cannot be null.");
@@ -102,7 +102,7 @@ public final class Test{
      }
      
      if  (!errors.isEmpty()) {
-       Exception ex = new Exception("Errors found in constructing a Test.");
+       Exception ex = new Exception("Errors found in constructing a Tost.");
        for (String error : errors) {
          ex.addSuppressed(new Exception(error));
        }
