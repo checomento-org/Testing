@@ -15,3 +15,4 @@ Todo bien
 //mas cambios con cambios en gitconfig
 //mas cambios con checomentox
 //cambios de develop con CHX write
+version 2.0
